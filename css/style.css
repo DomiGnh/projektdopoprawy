@@ -56,6 +56,24 @@ header#header h1#main-header-text
     color: #fff;
 }
 
+section#about
+{
+    position: relative;
+    text-align: center;
+}
+
+section#about p
+{
+    left: 50px;
+    right:50px;
+}
+
+
+
+
+
+
+
 
 
 
