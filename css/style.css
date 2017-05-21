@@ -67,13 +67,41 @@ section#about h2#about-header
 {
     font-size: 30px;
     text-align: center;
-    margin: 0 auto;
+    margin-bottom: 20px;
 }
 
+section#about p.about-content
+{ text-align: center;}
 
 
+footer#contact
+{
+   text-align: center;
+    background: #222;
+    
+}
 
+footer#contact h2
+{ color: #fff; 
+font-size: 25px;
+padding-top: 15px;}
 
+footer#contact address#contact-content
+{ color: #fff;
+    font-size:15px;
+    padding-bottom : 14px; 
+   
+    
+}
+
+footer#contact a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer#contact a:hover
+{ color: #999;}
 
 
 
