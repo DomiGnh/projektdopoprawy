@@ -58,14 +58,16 @@ header#header h1#main-header-text
 
 section#about
 {
-    position: relative;
-    text-align: center;
+    margin: 30px 0px;
+    padding: 0 50px;
 }
+    
 
-section#about p
+section#about h2#about-header
 {
-    left: 50px;
-    right:50px;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 
